@@ -1,6 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhara Solanki</h1>
+
+
 <h3 align="center">I'm currently an undergraduate pursuing my bachelor's in computer engineering .</h3>
 
 
