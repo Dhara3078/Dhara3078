@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 Currently working as a **Data Scientist at Bacancy DataProphets**, developing and deploying AI-driven business solutions.  
+- 🎯 Currently working as a **Data Scientist at Maruti Techlabs**, developing and deploying AI-driven business solutions.  
 - 🧠 Experienced in **Machine Learning, Deep Learning, Generative AI, and NLP**, with hands-on expertise in creating real-world data applications.  
 - 🧩 Skilled at designing **end-to-end ML pipelines** — from data preprocessing and feature engineering to model training, optimization, and deployment.  
 - 🤝 Passionate about **collaborating across teams** to integrate AI seamlessly into scalable products.  
